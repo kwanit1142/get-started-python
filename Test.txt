@@ -1,1 +1,1 @@
-First Time
+First Time, dealing with permission issues and ssd restarts.
